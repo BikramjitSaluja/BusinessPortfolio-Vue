@@ -7,6 +7,7 @@
       arrows
       infinite
     >
+    
     <q-carousel-slide name="first" img-src="https://cdn.quasar.dev/img/mountains.jpg">
         <div class="absolute-bottom custom-caption">
           <div class="text-h6">First stop</div>
