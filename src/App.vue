@@ -6,7 +6,8 @@
 import { defineComponent } from 'vue'
 import '../src/scss/main.scss'
 
+//App, q-app
 export default defineComponent({
-  name: 'App'
+  name: 'q-app'
 })
 </script>
